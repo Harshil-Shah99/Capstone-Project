@@ -4,6 +4,12 @@ Since the pickle files for the data are too large to be uploaded to github, we h
 <br></br>You can find all of the data here: https://drive.google.com/drive/folders/1dXxqYkei1ptmNacIFFfNIB8n7JLXwLRM?usp=sharing
 <br></br>The code is available in the form of .ipynb file pre-run with output images available.
 # What I've done in this project
+Here's a brief video explaining what I've done in this project:
+
+https://user-images.githubusercontent.com/38115399/143388183-35914e1e-ee8f-4ce1-8dbe-44b30c712b2f.mp4
+
+
+
 In this project, I aimed to accomplish the following objectives, listed and completed in
 sequence:<br></br>
 ● To load a VGG16 network without its top, pre-trained on ImageNet<br></br>
@@ -39,6 +45,8 @@ https://user-images.githubusercontent.com/38115399/143386536-3dc07616-7cf6-4598-
 <br></br>
 The following images are some further examples of how my project works
 <br></br>
+![surprise](https://user-images.githubusercontent.com/38115399/143385710-2957164e-724b-4d9f-abb7-14cf65089ad9.JPG)
+<br></br>
 ![anger](https://user-images.githubusercontent.com/38115399/143385663-4b62cf94-270c-4300-9557-552b2287abf6.JPG)
 <br></br>
 ![disgust](https://user-images.githubusercontent.com/38115399/143385684-bcef73e3-e7e7-43ad-a231-c92d6e6a1b00.JPG)
@@ -49,5 +57,4 @@ The following images are some further examples of how my project works
 <br></br>
 ![sadness](https://user-images.githubusercontent.com/38115399/143385707-b5ed8163-7994-45e8-b306-b1ac38d9ae4c.JPG)
 <br></br>
-![surprise](https://user-images.githubusercontent.com/38115399/143385710-2957164e-724b-4d9f-abb7-14cf65089ad9.JPG)
-<br></br>
+
