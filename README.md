@@ -1,3 +1,9 @@
+  Basically what my project does:
+
+![image](https://user-images.githubusercontent.com/38115399/143766076-76a2d2a0-2251-43da-a3bf-a9d6fbd931cd.png)
+
+
+
 # Purpose of this repository
 This is the repository for storing data and code files from the final semester of my Bachelor's degree for my Capstone Project
 Since the pickle files for the data are too large to be uploaded to github, we have uploaded them to Google Drive. 
